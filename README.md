@@ -15,13 +15,6 @@ A lightweight, browser-based **to-do list application** that allows users to **a
 
 ---
 
-## Demo
-
-![Task Saver Screenshot](screenshot.png)  
-*(Optional: Add a screenshot of your app here)*
-
----
-
 ## How to Use
 
 1. Clone the repository or download the `index.html` file.
